@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestEmployeeService" project="test" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.observepoint.test.test.all.TestEmployeeService" time="0.214" displayname="TestEmployeeService" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]">
+    <testcase name="t1_shouldSaveDeparments" classname="com.observepoint.test.test.all.TestEmployeeService" time="0.15" displayname="t1_shouldSaveDeparments()" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]/[method:t1_shouldSaveDeparments()]"/>
+    <testcase name="t11_shouldSaveDeparments" classname="com.observepoint.test.test.all.TestEmployeeService" time="0.011" displayname="t11_shouldSaveDeparments()" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]/[method:t11_shouldSaveDeparments()]"/>
+    <testcase name="t2_shouldSaveEmployee1" classname="com.observepoint.test.test.all.TestEmployeeService" time="0.053" displayname="t2_shouldSaveEmployee1()" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]/[method:t2_shouldSaveEmployee1()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestEmployeeService" project="test" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="com.observepoint.test.test.all.TestEmployeeService" time="0.345" displayname="TestEmployeeService" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]">
+    <testcase name="t1_shouldSaveDeparments" classname="com.observepoint.test.test.all.TestEmployeeService" time="0.248" displayname="t1_shouldSaveDeparments()" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]/[method:t1_shouldSaveDeparments()]"/>
+    <testcase name="t11_shouldSaveDeparments" classname="com.observepoint.test.test.all.TestEmployeeService" time="0.01" displayname="t11_shouldSaveDeparments()" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]/[method:t11_shouldSaveDeparments()]"/>
+    <testcase name="t2_shouldSaveEmployee1" classname="com.observepoint.test.test.all.TestEmployeeService" time="0.037" displayname="t2_shouldSaveEmployee1()" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]/[method:t2_shouldSaveEmployee1()]"/>
+    <testcase name="t3_shouldSaveEmployee2" classname="com.observepoint.test.test.all.TestEmployeeService" time="0.016" displayname="t3_shouldSaveEmployee2()" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]/[method:t3_shouldSaveEmployee2()]"/>
+    <testcase name="t4_shouldSaveEmployee3" classname="com.observepoint.test.test.all.TestEmployeeService" time="0.015" displayname="t4_shouldSaveEmployee3()" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]/[method:t4_shouldSaveEmployee3()]"/>
+    <testcase name="t5_shouldSaveEmployee4" classname="com.observepoint.test.test.all.TestEmployeeService" time="0.019" displayname="t5_shouldSaveEmployee4()" uniqueid="[engine:junit-jupiter]/[class:com.observepoint.test.test.all.TestEmployeeService]/[method:t5_shouldSaveEmployee4()]"/>
+  </testsuite>
+</testrun>
